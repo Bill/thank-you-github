@@ -144,3 +144,4 @@ Signed,
 - Manan Wason ([@mananwason](https://github.com/mananwason)), Student, Full Stack Developer and OSS Contributor
 - David Muto ([@pseudomuto](https://github.com/pseudomuto)), Software Developer
 - Jean Lucas ([@jeanleonino](https://github.com/jeanleonino)), Software Developer
+- Bill Burcham ([@Bill](https://github.com/Bill)), Scientist
